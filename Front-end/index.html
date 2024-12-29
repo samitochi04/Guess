@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guess – Game</title>
+    <link href="styles/tailwind.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 flex justify-center items-center min-h-screen">
+    <div id="game-container" class="w-full max-w-4xl p-6 bg-white shadow-lg rounded-lg">
+        <!-- Game UI will be injected here -->
+    </div>
+    <div class="text-center">
+        <h1 class="text-4xl font-bold text-purple-600">Guess</h1>
+        <p class="text-lg text-gray-600 mt-2">Gaming between classes for smart students!</p>
+    
+        <!-- Game Section -->
+        <div class="mt-10">
+            <div id="timer" class="text-2xl font-semibold"></div>
+            <div id="question" class="text-3xl mt-4"></div>
+    
+            <!-- Answer Options -->
+            <div class="grid grid-cols-2 gap-4 mt-6">
+                <button class="p-4 bg-blue-500 text-white rounded-lg hover:bg-blue-600">Option 1</button>
+                <button class="p-4 bg-blue-500 text-white rounded-lg hover:bg-blue-600">Option 2</button>
+                <button class="p-4 bg-blue-500 text-white rounded-lg hover:bg-blue-600">Option 3</button>
+                <button class="p-4 bg-blue-500 text-white rounded-lg hover:bg-blue-600">Option 4</button>
+            </div>
+    
+            <p class="text-gray-500 mt-8">Waiting for players...</p>
+        </div>
+    </div>
+    
+
+    <script src="js/app.js"></script>
+</body>
+</html>
