@@ -1,0 +1,248 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="800" viewBox="0 0 360 800">
+  <defs>
+    <filter id="Rectangle_1" x="-7.5" y="-4.5" width="375" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-color="#a5a5a5"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="G" x="5" y="-3.5" width="62" height="86" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-color="#751a95"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="_" x="26.14" y="1.374" width="60.357" height="73.072" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-color="#751a95"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3" x="13" y="38.5" width="46" height="31" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-4"/>
+      <feFlood flood-color="#751a95"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_50" x="4" y="65" width="354" height="55" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_51" x="4" y="129" width="359" height="345" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_52" x="4" y="293" width="359" height="181" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_23" x="4" y="493" width="359" height="191" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_29" x="155" y="215" width="25" height="60" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_54" x="127" y="331" width="44" height="31" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-10"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_54-2" x="127" y="347" width="44" height="31" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-11"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_54-3" x="127" y="364" width="44" height="31" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-12"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_54-4" x="127" y="380" width="44" height="31" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-13"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Started_Session-_Describing_Session_Creator_">
+      <rect width="360" height="800"/>
+    </clipPath>
+  </defs>
+  <g id="Started_Session-_Describing_Session_Creator_" data-name="Started Session- Describing/Session Creator " clip-path="url(#clip-Started_Session-_Describing_Session_Creator_)">
+    <rect width="360" height="800" fill="#fff"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_1)">
+      <rect id="Rectangle_1-2" data-name="Rectangle 1" width="360" height="59" fill="#fff"/>
+    </g>
+    <g id="Group_1" data-name="Group 1" transform="translate(-629 47.5)">
+      <g transform="matrix(1, 0, 0, 1, 629, -47.5)" filter="url(#G)">
+        <text id="G-2" data-name="G" transform="translate(20 43.5)" fill="#9d4edd" font-size="40" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">G</tspan></text>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 629, -47.5)" filter="url(#_)">
+        <text id="_2" data-name="?" transform="matrix(0.92, 0.39, -0.39, 0.92, 45.05, 33.99)" fill="#9d4edd" font-size="29" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">?</tspan></text>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 629, -47.5)" filter="url(#Rectangle_3)">
+        <rect id="Rectangle_3-2" data-name="Rectangle 3" width="16" height="1" rx="0.5" transform="translate(28 43.5)" fill="#9d4edd"/>
+      </g>
+    </g>
+    <g id="Group_2" data-name="Group 2" transform="translate(59 -267)">
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="38" height="4" rx="2" transform="translate(243 285)" fill="#9d4edd"/>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="38" height="4" rx="2" transform="translate(243 305)" fill="#9d4edd"/>
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="38" height="4" rx="2" transform="translate(243 295)" fill="#9d4edd"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_50)">
+      <rect id="Rectangle_50-2" data-name="Rectangle 50" width="336" height="37" transform="translate(10 71)" fill="#fff"/>
+    </g>
+    <text id="Session_Name" transform="translate(18 92)" fill="#1d1d1d" font-size="15" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Session_Name</tspan></text>
+    <text id="Time" transform="translate(302 92)" fill="#1d1d1d" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Time</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_51)">
+      <rect id="Rectangle_51-2" data-name="Rectangle 51" width="341" height="327" transform="translate(10 135)" fill="#eee"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_52)">
+      <rect id="Rectangle_52-2" data-name="Rectangle 52" width="341" height="163" transform="translate(10 299)" fill="#fff"/>
+    </g>
+    <g id="Group_395" data-name="Group 395" transform="translate(0 -2)">
+      <text id="_1._Dalton_2._Daffy_Duck_3._Bugs_Bunny_4._Mickael_Jackson" data-name="1. Dalton
+2. Daffy Duck
+3. Bugs Bunny
+4. Mickael Jackson" transform="translate(19 350)" fill="#1d1d1d" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">1. Dalton</tspan><tspan x="0" y="16">2. Daffy Duck</tspan><tspan x="0" y="32">3. Bugs Bunny</tspan><tspan x="0" y="48">4. Mickael Jackson</tspan></text>
+      <text id="Answer_:" data-name="Answer :" transform="translate(19 329)" fill="#1d1d1d" font-size="12" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Answer :</tspan></text>
+    </g>
+    <text id="Guessing_Time_count" transform="translate(217 443)" fill="#1d1d1d" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Guessing_Time_count</tspan></text>
+    <g id="Group_397" data-name="Group 397" transform="translate(-21 -28)">
+      <g transform="matrix(1, 0, 0, 1, 21, 28)" filter="url(#Rectangle_23)">
+        <rect id="Rectangle_23-2" data-name="Rectangle 23" width="341" height="173" transform="translate(10 499)" fill="#fff"/>
+      </g>
+      <text id="LeaderBoard" transform="translate(43 542)" fill="#1d1d1d" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">LeaderBoard</tspan></text>
+      <line id="Line_3" data-name="Line 3" x2="316.97" transform="translate(43.015 550.425)" fill="none" stroke="#1d1d1d" stroke-width="0.5"/>
+      <text id="Name" transform="translate(44 569)" fill="#1d1d1d" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Name</tspan></text>
+      <text id="Point" transform="translate(295 569)" fill="#1d1d1d" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Point</tspan></text>
+      <text id="Time_s_" data-name="Time (s)" transform="translate(177 569)" fill="#1d1d1d" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Time (s)</tspan></text>
+      <g id="Group_22" data-name="Group 22" transform="translate(44 577.119)">
+        <text id="_1._XXX_player" data-name="1. XXX_player" transform="translate(0 9.881)" fill="#1d1d1d" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">1. XXX_player</tspan></text>
+        <text id="_15" data-name="15" transform="translate(140 9.881)" fill="#1d1d1d" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">15</tspan></text>
+        <text id="_3" data-name="3" transform="translate(261 9.881)" fill="#1d1d1d" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">3</tspan></text>
+      </g>
+      <g id="Group_23" data-name="Group 23" transform="translate(44 595.642)">
+        <text id="_2._XXX_player" data-name="2. XXX_player" transform="translate(0 10.358)" fill="#1d1d1d" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">2. XXX_player</tspan></text>
+        <text id="_21" data-name="21" transform="translate(140 10.358)" fill="#1d1d1d" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">21</tspan></text>
+        <text id="_3-2" data-name="3" transform="translate(261 10.358)" fill="#1d1d1d" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">3</tspan></text>
+      </g>
+      <g id="Group_24" data-name="Group 24" transform="translate(44 614.164)">
+        <text id="_2._XXX_player-2" data-name="2. XXX_player" transform="translate(0 9.836)" fill="#1d1d1d" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">2. XXX_player</tspan></text>
+        <text id="_28" data-name="28" transform="translate(140 9.836)" fill="#1d1d1d" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">28</tspan></text>
+        <text id="_3-3" data-name="3" transform="translate(261 9.836)" fill="#1d1d1d" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">3</tspan></text>
+      </g>
+      <g id="Group_25" data-name="Group 25" transform="translate(44 632.687)">
+        <text id="_4._XXX_player" data-name="4. XXX_player" transform="translate(0 10.313)" fill="#1d1d1d" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">4. XXX_player</tspan></text>
+        <text id="_36" data-name="36" transform="translate(140 10.313)" fill="#1d1d1d" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">36</tspan></text>
+        <text id="_3-4" data-name="3" transform="translate(261 10.313)" fill="#1d1d1d" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">3</tspan></text>
+      </g>
+      <g id="Group_26" data-name="Group 26" transform="translate(44 651.209)">
+        <text id="_5._XXX_player" data-name="5. XXX_player" transform="translate(0 9.791)" fill="#1d1d1d" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">5. XXX_player</tspan></text>
+        <text id="_59" data-name="59" transform="translate(140 9.791)" fill="#1d1d1d" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">59</tspan></text>
+        <text id="_3-5" data-name="3" transform="translate(261 9.791)" fill="#1d1d1d" font-size="10" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">3</tspan></text>
+      </g>
+    </g>
+    <g id="Group_399" data-name="Group 399" transform="translate(-1409 -641)">
+      <circle id="Ellipse_26" data-name="Ellipse 26" cx="19.5" cy="19.5" r="19.5" transform="translate(1552 812)" fill="#bf4cfb"/>
+      <path id="Path_249" data-name="Path 249" d="M3.389-.646C5.6-.646,8.622,5.1,8.622,11.727s-4.188,13.69-6.4,13.69S0,18.627,0,12,1.179-.646,3.389-.646Z" transform="matrix(0.966, -0.259, 0.259, 0.966, 1579.031, 817.444)" fill="#ecd5ff"/>
+      <ellipse id="Ellipse_27" data-name="Ellipse 27" cx="2.5" cy="4.5" rx="2.5" ry="4.5" transform="matrix(0.966, -0.259, 0.259, 0.966, 1566.92, 828.8)" fill="#ecd5ff"/>
+      <ellipse id="Ellipse_28" data-name="Ellipse 28" cx="21" cy="37.5" rx="21" ry="37.5" transform="translate(1553 851)" fill="#bf4cfb"/>
+      <g transform="matrix(1, 0, 0, 1, 1409, 641)" filter="url(#Ellipse_29)">
+        <ellipse id="Ellipse_29-2" data-name="Ellipse 29" cx="3.5" cy="21" rx="3.5" ry="21" transform="translate(161 221)" fill="#ecd5ff"/>
+      </g>
+      <text id="_3-6" data-name="?" transform="matrix(0.993, -0.122, 0.122, 0.993, 1566.52, 811)" fill="#bf4cfb" font-size="23" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">?</tspan></text>
+      <g id="Ellipse_30" data-name="Ellipse 30" transform="translate(1581.32 793.5) rotate(60)" fill="#bf4cfb" stroke="#bf4cfb" stroke-width="1">
+        <ellipse cx="0.5" cy="2.5" rx="0.5" ry="2.5" stroke="none"/>
+        <ellipse cx="0.5" cy="2.5" ry="2" fill="none"/>
+      </g>
+      <g id="Ellipse_31" data-name="Ellipse 31" transform="translate(1567.817 788.585) rotate(-30)" fill="#bf4cfb" stroke="#bf4cfb" stroke-width="1">
+        <ellipse cx="0.5" cy="2.5" rx="0.5" ry="2.5" stroke="none"/>
+        <ellipse cx="0.5" cy="2.5" ry="2" fill="none"/>
+      </g>
+      <g id="Ellipse_32" data-name="Ellipse 32" transform="translate(1560.085 792.683) rotate(-60)" fill="#bf4cfb" stroke="#bf4cfb" stroke-width="1">
+        <ellipse cx="0.5" cy="2.5" rx="0.5" ry="2.5" stroke="none"/>
+        <ellipse cx="0.5" cy="2.5" ry="2" fill="none"/>
+      </g>
+      <g id="Ellipse_33" data-name="Ellipse 33" transform="translate(1576.125 788.67) rotate(30)" fill="#bf4cfb" stroke="#bf4cfb" stroke-width="1">
+        <ellipse cx="0.5" cy="2.5" rx="0.5" ry="2.5" stroke="none"/>
+        <ellipse cx="0.5" cy="2.5" ry="2" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_402" data-name="Group 402">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_54)">
+        <g id="Rectangle_54-5" data-name="Rectangle 54" transform="translate(133 337)" fill="#fff" stroke="#9d4edd" stroke-width="1">
+          <rect width="26" height="13" stroke="none"/>
+          <rect x="0.5" y="0.5" width="25" height="12" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_378" data-name="Group 378" transform="translate(-99.454 -395.886)">
+        <path id="Rectangle_11" data-name="Rectangle 11" d="M.664,0h0a.664.664,0,0,1,.664.664V6.183a0,0,0,0,1,0,0H.664A.664.664,0,0,1,0,5.519V.664A.664.664,0,0,1,.664,0Z" transform="translate(239.919 740.884) rotate(-57)" fill="#9d4edd"/>
+        <rect id="Rectangle_12" data-name="Rectangle 12" width="1.561" height="10.589" rx="0.78" transform="translate(249.68 734.521) rotate(33)" fill="#9d4edd"/>
+      </g>
+    </g>
+    <g id="Group_403" data-name="Group 403" transform="translate(0 16)">
+      <g transform="matrix(1, 0, 0, 1, 0, -16)" filter="url(#Rectangle_54-2)">
+        <g id="Rectangle_54-6" data-name="Rectangle 54" transform="translate(133 353)" fill="#fff" stroke="#9d4edd" stroke-width="1">
+          <rect width="26" height="13" stroke="none"/>
+          <rect x="0.5" y="0.5" width="25" height="12" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_378-2" data-name="Group 378" transform="translate(-99.454 -395.886)">
+        <path id="Rectangle_11-2" data-name="Rectangle 11" d="M.664,0h0a.664.664,0,0,1,.664.664V6.183a0,0,0,0,1,0,0H.664A.664.664,0,0,1,0,5.519V.664A.664.664,0,0,1,.664,0Z" transform="translate(239.919 740.884) rotate(-57)" fill="#9d4edd"/>
+        <rect id="Rectangle_12-2" data-name="Rectangle 12" width="1.561" height="10.589" rx="0.78" transform="translate(249.68 734.521) rotate(33)" fill="#9d4edd"/>
+      </g>
+    </g>
+    <g id="Group_404" data-name="Group 404" transform="translate(0 33)">
+      <g transform="matrix(1, 0, 0, 1, 0, -33)" filter="url(#Rectangle_54-3)">
+        <g id="Rectangle_54-7" data-name="Rectangle 54" transform="translate(133 370)" fill="#fff" stroke="#9d4edd" stroke-width="1">
+          <rect width="26" height="13" stroke="none"/>
+          <rect x="0.5" y="0.5" width="25" height="12" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_378-3" data-name="Group 378" transform="translate(-99.454 -395.886)">
+        <path id="Rectangle_11-3" data-name="Rectangle 11" d="M.664,0h0a.664.664,0,0,1,.664.664V6.183a0,0,0,0,1,0,0H.664A.664.664,0,0,1,0,5.519V.664A.664.664,0,0,1,.664,0Z" transform="translate(239.919 740.884) rotate(-57)" fill="#9d4edd"/>
+        <rect id="Rectangle_12-3" data-name="Rectangle 12" width="1.561" height="10.589" rx="0.78" transform="translate(249.68 734.521) rotate(33)" fill="#9d4edd"/>
+      </g>
+    </g>
+    <g id="Group_405" data-name="Group 405" transform="translate(0 49)">
+      <g transform="matrix(1, 0, 0, 1, 0, -49)" filter="url(#Rectangle_54-4)">
+        <g id="Rectangle_54-8" data-name="Rectangle 54" transform="translate(133 386)" fill="#fff" stroke="#9d4edd" stroke-width="1">
+          <rect width="26" height="13" stroke="none"/>
+          <rect x="0.5" y="0.5" width="25" height="12" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_378-4" data-name="Group 378" transform="translate(-99.454 -395.886)">
+        <path id="Rectangle_11-4" data-name="Rectangle 11" d="M.664,0h0a.664.664,0,0,1,.664.664V6.183a0,0,0,0,1,0,0H.664A.664.664,0,0,1,0,5.519V.664A.664.664,0,0,1,.664,0Z" transform="translate(239.919 740.884) rotate(-57)" fill="#9d4edd"/>
+        <rect id="Rectangle_12-4" data-name="Rectangle 12" width="1.561" height="10.589" rx="0.78" transform="translate(249.68 734.521) rotate(33)" fill="#9d4edd"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <filter id="Rectangle_1" x="-7.5" y="-4.5" width="1935" height="103" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-color="#a5a5a5"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="G" x="35" y="8" width="66" height="93" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-color="#751a95"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="_" x="58.987" y="13.458" width="62.841" height="77.145" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-color="#751a95"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3" x="44" y="55" width="48" height="31" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-4"/>
+      <feFlood flood-color="#751a95"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Leaderboard" x="1331" y="14" width="165" height="62" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-5"/>
+      <feFlood flood-color="#bf4cfb"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_23" x="408" y="234" width="1111" height="473" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-LeaderBoard-2">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="LeaderBoard-2" data-name="LeaderBoard" clip-path="url(#clip-LeaderBoard-2)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_1)">
+      <rect id="Rectangle_1-2" data-name="Rectangle 1" width="1920" height="88" fill="#fff"/>
+    </g>
+    <g id="Group_1" data-name="Group 1" transform="translate(-599 59)">
+      <g transform="matrix(1, 0, 0, 1, 599, -59)" filter="url(#G)">
+        <text id="G-2" data-name="G" transform="translate(50 60)" fill="#9d4edd" font-size="45" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">G</tspan></text>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 599, -59)" filter="url(#_)">
+        <text id="_2" data-name="?" transform="matrix(0.92, 0.39, -0.39, 0.92, 78.28, 48.84)" fill="#9d4edd" font-size="31" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">?</tspan></text>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 599, -59)" filter="url(#Rectangle_3)">
+        <rect id="Rectangle_3-2" data-name="Rectangle 3" width="18" height="1" rx="0.5" transform="translate(59 60)" fill="#9d4edd"/>
+      </g>
+    </g>
+    <text id="Home" transform="translate(1037 54)" fill="#1d1d1d" font-size="24" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Home</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Leaderboard)">
+      <text id="Leaderboard-3" data-name="Leaderboard" transform="translate(1346 54)" fill="#1d1d1d" font-size="24" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Leaderboard</tspan></text>
+    </g>
+    <text id="Session" transform="translate(1182 54)" fill="#1d1d1d" font-size="24" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Session</tspan></text>
+    <text id="Samuel" transform="translate(1781 54)" fill="#1d1d1d" font-size="24" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Samuel</tspan></text>
+    <g id="Group_393" data-name="Group 393" transform="translate(1541 -147)">
+      <text id="Language" transform="translate(20 201)" fill="#1d1d1d" font-size="24" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Language</tspan></text>
+      <g id="Group_16" data-name="Group 16" transform="translate(-401 -366.37)">
+        <rect id="Rectangle_11" data-name="Rectangle 11" width="4.231" height="18.736" rx="2.115" transform="translate(534.13 556.121) rotate(-45)" fill="#1d1d1d"/>
+        <rect id="Rectangle_12" data-name="Rectangle 12" width="4.231" height="18.736" rx="2.115" transform="translate(557.653 553.13) rotate(45)" fill="#1d1d1d"/>
+      </g>
+    </g>
+    <g id="Group_21" data-name="Group 21" transform="translate(776.62 32)">
+      <text id="Leader_Board" data-name="Leader Board" transform="translate(126 141)" fill="#1d1d1d" font-size="24" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Leader Board</tspan></text>
+      <g id="Group_20" data-name="Group 20" transform="translate(-329.87 -663.056)">
+        <g id="Group_18" data-name="Group 18" transform="translate(446.395 791.695) rotate(135)">
+          <rect id="Rectangle_11-2" data-name="Rectangle 11" width="2.835" height="12.553" rx="1.417" transform="translate(0 0)" fill="#9d4edd"/>
+          <rect id="Rectangle_12-2" data-name="Rectangle 12" width="2.835" height="12.553" rx="1.417" transform="translate(12.562 9.727) rotate(90)" fill="#9d4edd"/>
+        </g>
+        <rect id="Rectangle_22" data-name="Rectangle 22" width="2.835" height="20.914" rx="1.417" transform="translate(436.095 786.385)" fill="#9d4edd"/>
+      </g>
+    </g>
+    <g id="Group_413" data-name="Group 413" transform="translate(-147.895 -14)">
+      <g transform="matrix(1, 0, 0, 1, 147.89, 14)" filter="url(#Rectangle_23)">
+        <rect id="Rectangle_23-2" data-name="Rectangle 23" width="1093" height="455" transform="translate(414 240)" fill="#fff"/>
+      </g>
+      <text id="Top" transform="translate(598.895 291)" fill="#1d1d1d" font-size="31" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Top</tspan></text>
+      <line id="Line_3" data-name="Line 3" x2="1015.73" transform="translate(600.517 309.819)" fill="none" stroke="#1d1d1d" stroke-width="0.5"/>
+      <text id="Name" transform="translate(603.895 356)" fill="#1d1d1d" font-size="26" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Name</tspan></text>
+      <text id="Won" transform="translate(1409.895 356)" fill="#1d1d1d" font-size="26" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Won</tspan></text>
+      <text id="Sessions" transform="translate(1009.895 355)" fill="#1d1d1d" font-size="25" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Sessions</tspan></text>
+      <g id="Group_22" data-name="Group 22" transform="translate(604.218 373)">
+        <text id="_1._XXX_player" data-name="1. XXX_player" transform="translate(-0.324 27)" fill="#1d1d1d" font-size="26" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">1. XXX_player</tspan></text>
+        <text id="_10" data-name="10" transform="translate(448.676 27)" fill="#1d1d1d" font-size="26" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">10</tspan></text>
+        <text id="_7" data-name="7" transform="translate(833.676 27)" fill="#1d1d1d" font-size="26" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">7</tspan></text>
+      </g>
+      <g id="Group_23" data-name="Group 23" transform="translate(604.218 418)">
+        <text id="_2._XXX_player" data-name="2. XXX_player" transform="translate(-0.324 27)" fill="#1d1d1d" font-size="26" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">2. XXX_player</tspan></text>
+        <text id="_8" data-name="8" transform="translate(448.676 27)" fill="#1d1d1d" font-size="26" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">8</tspan></text>
+        <text id="_5" data-name="5" transform="translate(833.676 27)" fill="#1d1d1d" font-size="26" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">5</tspan></text>
+      </g>
+      <g id="Group_24" data-name="Group 24" transform="translate(604.218 462)">
+        <text id="_2._XXX_player-2" data-name="2. XXX_player" transform="translate(-0.324 27)" fill="#1d1d1d" font-size="26" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">2. XXX_player</tspan></text>
+        <text id="_10-2" data-name="10" transform="translate(448.676 27)" fill="#1d1d1d" font-size="26" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">10</tspan></text>
+        <text id="_5-2" data-name="5" transform="translate(833.676 27)" fill="#1d1d1d" font-size="26" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">5</tspan></text>
+      </g>
+      <g id="Group_25" data-name="Group 25" transform="translate(604.218 506)">
+        <text id="_4._XXX_player" data-name="4. XXX_player" transform="translate(-0.324 27)" fill="#1d1d1d" font-size="26" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">4. XXX_player</tspan></text>
+        <text id="_12" data-name="12" transform="translate(448.676 27)" fill="#1d1d1d" font-size="26" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">12</tspan></text>
+        <text id="_4" data-name="4" transform="translate(833.676 27)" fill="#1d1d1d" font-size="26" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">4</tspan></text>
+      </g>
+      <g id="Group_26" data-name="Group 26" transform="translate(604.218 550)">
+        <text id="_5._XXX_player" data-name="5. XXX_player" transform="translate(-0.324 27)" fill="#1d1d1d" font-size="26" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">5. XXX_player</tspan></text>
+        <text id="_4-2" data-name="4" transform="translate(448.676 27)" fill="#1d1d1d" font-size="26" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">4</tspan></text>
+        <text id="_3" data-name="3" transform="translate(833.676 27)" fill="#1d1d1d" font-size="26" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">3</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

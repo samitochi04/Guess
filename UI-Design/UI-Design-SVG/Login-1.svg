@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="800" viewBox="0 0 360 800">
+  <defs>
+    <filter id="Rectangle_1" x="-7.5" y="-4.5" width="375" height="74" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-color="#a5a5a5"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="G" x="5" y="-3.5" width="62" height="86" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-color="#751a95"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="_" x="26.14" y="1.374" width="60.357" height="73.072" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-color="#751a95"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3" x="13" y="38.5" width="46" height="31" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-4"/>
+      <feFlood flood-color="#751a95"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_7" x="56.5" y="233.5" width="248" height="374" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-5"/>
+      <feFlood flood-color="#9d4edd"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="G-2" x="140.211" y="240" width="62" height="86" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-6"/>
+      <feFlood flood-color="#751a95"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="_2" x="161.352" y="244.874" width="60.357" height="73.072" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-7"/>
+      <feFlood flood-color="#751a95"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3-2" x="148.211" y="282" width="46" height="31" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-8"/>
+      <feFlood flood-color="#751a95"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_8" x="86.5" y="373.5" width="185" height="34" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-9"/>
+      <feFlood flood-color="#9d4edd"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_9" x="86.5" y="433.5" width="185" height="34" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-10"/>
+      <feFlood flood-color="#9d4edd"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_10" x="120" y="567" width="121" height="33" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-11"/>
+      <feFlood flood-color="#9d4edd"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Login">
+      <rect width="360" height="800"/>
+    </clipPath>
+  </defs>
+  <g id="Login" clip-path="url(#clip-Login)">
+    <rect width="360" height="800" fill="#fff"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_1)">
+      <rect id="Rectangle_1-2" data-name="Rectangle 1" width="360" height="59" fill="#fff"/>
+    </g>
+    <g id="Group_1" data-name="Group 1" transform="translate(-629 47.5)">
+      <g transform="matrix(1, 0, 0, 1, 629, -47.5)" filter="url(#G)">
+        <text id="G-3" data-name="G" transform="translate(20 43.5)" fill="#9d4edd" font-size="40" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">G</tspan></text>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 629, -47.5)" filter="url(#_)">
+        <text id="_3" data-name="?" transform="matrix(0.92, 0.39, -0.39, 0.92, 45.05, 33.99)" fill="#9d4edd" font-size="29" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">?</tspan></text>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 629, -47.5)" filter="url(#Rectangle_3)">
+        <rect id="Rectangle_3-3" data-name="Rectangle 3" width="16" height="1" rx="0.5" transform="translate(28 43.5)" fill="#9d4edd"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_7)">
+      <g id="Rectangle_7-2" data-name="Rectangle 7" transform="translate(61 235)" fill="#fff" stroke="#9d4edd" stroke-width="1">
+        <rect width="239" height="365" rx="25" stroke="none"/>
+        <rect x="0.5" y="0.5" width="238" height="364" rx="24.5" fill="none"/>
+      </g>
+    </g>
+    <text id="Login-2" data-name="Login" transform="translate(152 325)" fill="#9d4edd" font-size="23" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Login</tspan></text>
+    <g id="Group_3" data-name="Group 3" transform="translate(-493.788 291)">
+      <g transform="matrix(1, 0, 0, 1, 493.79, -291)" filter="url(#G-2)">
+        <text id="G-4" data-name="G" transform="translate(155.21 287)" fill="#9d4edd" font-size="40" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">G</tspan></text>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 493.79, -291)" filter="url(#_2)">
+        <text id="_4" data-name="?" transform="matrix(0.92, 0.39, -0.39, 0.92, 180.26, 277.49)" fill="#9d4edd" font-size="29" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">?</tspan></text>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 493.79, -291)" filter="url(#Rectangle_3-2)">
+        <rect id="Rectangle_3-4" data-name="Rectangle 3" width="16" height="1" rx="0.5" transform="translate(163.21 287)" fill="#9d4edd"/>
+      </g>
+    </g>
+    <text id="Email_:" data-name="Email :" transform="translate(94 365)" fill="#1d1d1d" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Email :</tspan></text>
+    <text id="Password_:" data-name="Password :" transform="translate(94 425)" fill="#1d1d1d" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Password :</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_8)">
+      <g id="Rectangle_8-2" data-name="Rectangle 8" transform="translate(94 376)" fill="#fff" stroke="#9d4edd" stroke-width="1">
+        <rect width="170" height="19" rx="9.5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="169" height="18" rx="9" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_9)">
+      <g id="Rectangle_9-2" data-name="Rectangle 9" transform="translate(94 436)" fill="#fff" stroke="#9d4edd" stroke-width="1">
+        <rect width="170" height="19" rx="9.5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="169" height="18" rx="9" fill="none"/>
+      </g>
+    </g>
+    <text id="Sign_Up" data-name="Sign Up" transform="translate(212 481)" fill="#1d1d1d" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Sign Up</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_10)">
+      <rect id="Rectangle_10-2" data-name="Rectangle 10" width="91" height="3" rx="1.5" transform="translate(135 572)" fill="#9d4edd"/>
+    </g>
+    <g id="Group_354" data-name="Group 354" transform="translate(69 59)">
+      <rect id="Rectangle_34" data-name="Rectangle 34" width="95" height="32" rx="16" transform="translate(64 436)" fill="#9d4edd"/>
+      <text id="Login-3" data-name="Login" transform="translate(96 457)" fill="#fff" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Login</tspan></text>
+    </g>
+  </g>
+</svg>
