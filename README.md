@@ -61,5 +61,5 @@
 - **Upcoming Features:**  
    - New game modes  
    - Additional languages  
-   - Advanced scoring system  
+   - Advanced scoring system.
 
