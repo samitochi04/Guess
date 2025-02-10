@@ -1,31 +1,52 @@
 import { FastifyInstance } from "fastify";
-import { hashPassword, comparePassword, generateToken } from "../../services/auth";
-
-const users: { email: string; password: string; firstName?: string; lastName?: string }[] = [];
+import { hashPassword, comparePassword, generateToken, verifyToken } from "../../services/auth";
 
 export default async function authRoutes(fastify: FastifyInstance) {
-  fastify.post("/signup", async (request, reply) => {
-    const { firstName, lastName, email, password } = request.body as { firstName: string; lastName: string; email: string; password: string };
+  // Fake in-memory user database (Replace with real database)
+  const users: { email: string; password: string }[] = [];
 
-    if (users.find((user) => user.email === email)) {
-      return reply.status(400).send({ message: "User already exists" });
+  // Public route: Signup
+  fastify.post("/signup", async (req, reply) => {
+    const { email, password } = req.body as { email: string; password: string };
+
+    // Check if user already exists
+    if (users.some((user) => user.email === email)) {
+      return reply.code(400).send({ error: "User already exists" });
     }
 
+    // Hash password and store user
     const hashedPassword = await hashPassword(password);
-    users.push({ firstName, lastName, email, password: hashedPassword });
+    users.push({ email, password: hashedPassword });
 
     return reply.send({ message: "User registered successfully" });
   });
 
-  fastify.post("/login", async (request, reply) => {
-    const { email, password } = request.body as { email: string; password: string };
-    const user = users.find((user) => user.email === email);
+  // Public route: Login
+  fastify.post("/login", async (req, reply) => {
+    const { email, password } = req.body as { email: string; password: string };
 
-    if (!user || !(await comparePassword(password, user.password))) {
-      return reply.status(401).send({ message: "Invalid credentials" });
+    // Find user in the database
+    const user = users.find((u) => u.email === email);
+    if (!user) {
+      return reply.code(400).send({ error: "Invalid email or password" });
     }
 
+    // Compare passwords
+    const isValidPassword = await comparePassword(password, user.password);
+    if (!isValidPassword) {
+      return reply.code(400).send({ error: "Invalid email or password" });
+    }
+
+    // Generate and send token
     const token = generateToken(email);
     return reply.send({ token });
+  });
+
+  // Protected route: Get user profile
+  fastify.get("/profile", { preHandler: verifyToken }, async (req, reply) => {
+    if (!req.user) {
+      return reply.code(401).send({ error: "Unauthorized" });
+    }
+    return reply.send({ message: "Welcome to your profile!", user: req.user });
   });
 }
